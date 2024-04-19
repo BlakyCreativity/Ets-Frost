@@ -1,4 +1,5 @@
 
+import MainScreen from "./components/MainScreen"
 import  "./components/NavBar"
 import NavBar from "./components/NavBar"
 
@@ -8,6 +9,9 @@ function App() {
       <NavBar >
 
       </NavBar>
+      <MainScreen >
+
+      </MainScreen>
       
     </div>
   )
